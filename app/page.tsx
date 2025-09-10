@@ -10,7 +10,7 @@ export default function Home() {
       <header className="bg-white shadow">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex justify-between items-center">
-            <h1 className="text-2xl font-bold text-gray-900">AlumniConnect</h1>
+            <h1 className="text-2xl font-bold text-gray-900">AlumniSphere</h1>
             <nav className="flex gap-4">
               <Link
                 href="/directory"
@@ -58,7 +58,7 @@ export default function Home() {
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold text-center mb-12">
-            Why AlumniConnect?
+            Why AlumniSphere?
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <Card>
@@ -101,7 +101,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div>
-              <h3 className="text-lg font-semibold">AlumniConnect</h3>
+              <h3 className="text-lg font-semibold">AlumniSphere</h3>
               <p className="mt-2 text-gray-400">
                 Building stronger connections for a brighter future.
               </p>
@@ -130,7 +130,7 @@ export default function Home() {
             <div>
               <h3 className="text-lg font-semibold">Contact Us</h3>
               <p className="mt-2 text-gray-400">
-                Email: support@alumniconnect.com
+                Email: support@alumnisphere.com
               </p>
               <p className="text-gray-400">Phone: +1 (123) 456-7890</p>
             </div>
